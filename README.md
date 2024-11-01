@@ -1,4 +1,4 @@
-### Hi, I'm Yeonwoo Seo
+### Hi, I'm Yeonwoo Seo.
 I'm an undergraduate student majoring in Computer Science and Engineering at Korea University.
 
 <!--
