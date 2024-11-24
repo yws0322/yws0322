@@ -34,8 +34,8 @@
 </p>
 
 ## Stats
-<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yeonwoo&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=readygetset&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readygetset&layout=compact&theme=nord&hide_border=true" /></a> 
 
 
 
