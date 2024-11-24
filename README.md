@@ -1,23 +1,39 @@
 # Hi, I'm Yeonwoo Seo 👋
 
-### Education
+## Education
 - **B.S. in Computer Science & Engineering**, Korea University (Mar. 2022 - Present)
 - **Exchange Student**, University of Toronto (Expected Jan. 2025 - Apr. 2025)
 
-### I'm currently working on...
+## I'm currently working on...
 - Researching language modeling on tabular data at Data & Adaptive Intelligence Systems Lab, Korea University.
 
-### I'm interested in...
+## I'm interested in...
 - Natural Language Processing
 - Data Science
 - Applied AI in Healthcare
 - Domain Adaptation
 
-### Skill Set
-- **Programming Languages:** Python, C, HTML, CSS, JavaScript
-- **Frameworks & Tools:** PyTorch, TensorFlow, React, Express.js
+## Skill Set
+### Programming Languages
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-### Stats
+### Frameworks & Tools
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src=""/>
+<img src=""/>
+PyTorch, TensorFlow, React, Express.js
+
+## Stats
+<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yeonwoo&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo&layout=compact&theme=nord&hide_border=true" /></a> 
+
+
 
 <!--
 **readygetset/readygetset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
