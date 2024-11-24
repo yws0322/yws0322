@@ -1,15 +1,11 @@
 # Hi, I'm Yeonwoo Seo 👋
----
+
 ### Education
 - **B.S. in Computer Science & Engineering**, Korea University (Mar. 2022 - Present)
 - **Exchange Student**, University of Toronto (Expected Jan. 2025 - Apr. 2025)
 
----
-
 ### I'm currently working on...
 - Researching language modeling on tabular data at Data & Adaptive Intelligence Systems Lab, Korea University.
-
----
 
 ### I'm interested in...
 - Natural Language Processing
@@ -17,13 +13,9 @@
 - Applied AI in Healthcare
 - Domain Adaptation
 
----
-
 ### Skill Set
 - **Programming Languages:** Python, C, HTML, CSS, JavaScript
 - **Frameworks & Tools:** PyTorch, TensorFlow, React, Express.js
-
----
 
 ### Stats
 
