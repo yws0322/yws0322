@@ -5,7 +5,7 @@
 - **Exchange Student**, University of Toronto (Expected Jan. 2025 - Apr. 2025)
 
 ## 🔬 I'm currently working on
-- Researching language modeling on tabular data at Data & Adaptive Intelligence Systems Lab, Korea University.
+- Researching language modeling on tabular data at Data & Adaptive Intelligence Systems Lab, Korea University
 
 ## 🌟 I'm interested in
 - Natural Language Processing
