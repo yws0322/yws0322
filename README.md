@@ -1,19 +1,19 @@
 # Hi, I'm Yeonwoo Seo 👋
 
-## Education
+## 🎓 Education
 - **B.S. in Computer Science & Engineering**, Korea University (Mar. 2022 - Present)
 - **Exchange Student**, University of Toronto (Expected Jan. 2025 - Apr. 2025)
 
-## I'm currently working on...
+## 🔬 I'm currently working on
 - Researching language modeling on tabular data at Data & Adaptive Intelligence Systems Lab, Korea University.
 
-## I'm interested in...
+## 🌟 I'm interested in
 - Natural Language Processing
 - Data Science
 - Applied AI in Healthcare
 - Domain Adaptation
 
-## Skill Set
+## 💻 Skill Set
 ### Programming Languages
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -33,9 +33,14 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-## Stats
+## 📊 Stats
 <a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=readygetset&show_icons=true&include_all_commits=true&hide_border=true"/></a>
 
+## How to reach me
+<p>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/syw27o">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/yeonwoo-seo-8950372bb"/>
+</p>
 
 
 <!--
