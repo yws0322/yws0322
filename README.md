@@ -36,10 +36,14 @@
 ## 📊 Stats
 <a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=readygetset&show_icons=true&include_all_commits=true&hide_border=true"/></a>
 
-## How to reach me
+## 📫 How to reach me
 <p>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/syw27o">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/yeonwoo-seo-8950372bb"/>
+    <a href="https://www.instagram.com/syw27o" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yeonwoo-seo-8950372bb" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </p>
 
 
