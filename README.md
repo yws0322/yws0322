@@ -9,8 +9,8 @@
 
 ## 🌟 I'm interested in
 - Natural Language Processing
+- Large Language Models
 - Data Science
-- Applied AI in Healthcare
 - Domain Adaptation
 
 ## 💻 Skill Set
