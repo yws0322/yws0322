@@ -33,9 +33,6 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-## 📊 Stats
-<a href="https://github.com/readygetset"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=readygetset&show_icons=true&include_all_commits=true&hide_border=true"/></a>
-
 ## 📫 How to reach me
 <p>
     <a href="https://www.instagram.com/syw27o" target="_blank">
