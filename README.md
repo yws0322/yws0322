@@ -2,9 +2,10 @@
 
 ## 🎓 Education
 - **B.S. in Computer Science & Engineering**, Korea University (Mar. 2022 - Present)
-- **Exchange Student**, University of Toronto (Expected Jan. 2025 - Apr. 2025)
+- **Exchange Student**, University of Toronto (Jan. 2025 - Apr. 2025)
 
 ## 🔬 I'm currently working on
+- Researching foundation models for medical imaging at Wanglab, University of Toronto
 - Researching language modeling on tabular data at <a href="https://dais.korea.ac.kr/">Data & Adaptive Intelligence Systems Lab</a>, Korea University
 
 ## 🌟 I'm interested in
