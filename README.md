@@ -5,8 +5,7 @@
 - **Exchange Student**, University of Toronto (Jan. 2025 - Apr. 2025)
 
 ## 🔬 I'm currently working on
-- Researching foundation models for medical imaging at Wanglab, University of Toronto
-- Researching language modeling on tabular data at <a href="https://dais.korea.ac.kr/">Data & Adaptive Intelligence Systems Lab</a>, Korea University
+- Researching Medical AI at Wanglab, University of Toronto
 
 ## 🌟 I'm interested in
 - Natural Language Processing
